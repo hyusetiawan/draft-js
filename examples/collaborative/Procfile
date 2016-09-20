@@ -1,0 +1,2 @@
+express: nodemon server.js
+webpack: webpack --watch --progress --colors --devtool cheap-eval-source-map
